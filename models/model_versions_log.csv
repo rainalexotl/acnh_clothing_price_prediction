@@ -1,0 +1,2 @@
+datetime,params,train_loss,val_loss,notes
+2025-03-27_00:40:37,"{""learning_rate"": 0.001, ""dropout"": 0.4, ""hidden_sizes"": [100, 50], ""epochs"": 300}",tensor(0.0222),tensor(0.0230),baseline - good generalization

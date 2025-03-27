@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "dropout": 0.4, "hidden_sizes": [100, 50], "epochs": 300}
