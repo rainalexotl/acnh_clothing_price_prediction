@@ -5,3 +5,7 @@ data/dresses.csv
 data/shoes.csv
 data/socks.csv
 data/tops.csv
+
+# python bytecode
+__pycache__/
+*.pyc
