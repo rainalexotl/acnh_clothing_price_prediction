@@ -56,7 +56,7 @@ The goal of this project is to predict the **sell price** of clothing items in A
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rainalexotl/acnh_clothing_price_prediction.git
    cd acnh_clothing_price_prediction
    ```
 
