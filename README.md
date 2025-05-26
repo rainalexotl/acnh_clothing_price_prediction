@@ -45,7 +45,7 @@ Predicting item values helps understand game economies and supports building too
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rainalexotl/acnh_clothing_price_prediction.git
+   git clone https://github.com/rainalexotl/ml-economics-animal-crossing.git
    cd acnh_clothing_price_prediction
    ```
 
